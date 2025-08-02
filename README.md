@@ -16,3 +16,23 @@ This distance is mapped to system volume range.
 Volume changes dynamically as you pinch/open your fingers.
 
 
+
+# ▶️ Instructions to Run
+1. Clone the repo
+
+git clone https://github.com/Ovaiz-Shaikh/Volume-control-using-hand-gestures.git
+
+cd hand-gesture-volume-control
+
+2. Install dependencies
+Use pip to install required libraries:
+
+pip install opencv-python mediapipe pycaw numpy comtypes
+
+🔐 Note: Pycaw works only on Windows as it uses Windows Core Audio APIs.
+
+3. Run the program
+ 
+python Volume_Control.py
+
+Make sure your webcam is connected and your system audio is not muted.
