@@ -20,16 +20,16 @@ Volume changes dynamically as you pinch/open your fingers.
 # ▶️ Instructions to Run
 1. Clone the repo
 
- git clone https://github.com/Ovaiz-Shaikh/Volume-control-using-hand-gestures.git
-
- cd hand-gesture-volume-control
+       git clone https://github.com/Ovaiz-Shaikh/Volume-control-using-hand-gestures.git
+ 
 
 2. Install dependencies
- Use pip to install required libraries:
+       Use pip to install required libraries:
 
- pip install opencv-python mediapipe pycaw numpy comtypes
+       pip install opencv-python mediapipe pycaw numpy comtypes
 
- 🔐 Note: Pycaw works only on Windows as it uses Windows Core Audio APIs.
+       Note: Pycaw works only on Windows as it uses Windows Core Audio APIs.
+
 
 3. Run the program
  
