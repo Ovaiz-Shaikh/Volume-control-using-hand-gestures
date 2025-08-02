@@ -33,6 +33,6 @@ Volume changes dynamically as you pinch/open your fingers.
 
 3. Run the program
  
- python Volume_Control.py
+      python Volume_Control.py
 
- Make sure your webcam is connected and your system audio is not muted.
+      Make sure your webcam is connected and your system audio is not muted.
