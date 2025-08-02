@@ -28,7 +28,7 @@ Volume changes dynamically as you pinch/open your fingers.
 
        pip install opencv-python mediapipe pycaw numpy comtypes
 
-       Note: Pycaw works only on Windows as it uses Windows Core Audio APIs.
+ Note: Pycaw works only on Windows as it uses Windows Core Audio APIs.
 
 
 3. Run the program
